@@ -45,10 +45,3 @@ root@totvs-iam-operator
 | **Identity & IAM** | **`IAM/IGA`** **`PAM`** **`OAuth2`** **`SAML`** **`Active Directory`** |
 | **Red Team & Web Pentest** | ![Burp Suite](https://shields.io) ![Nmap](https://shields.io) ![Metasploit](https://shields.io) ![OWASP](https://shields.io) |
 | **Offensive Tools** | ![GDB](https://shields.io) ![Kali Linux](https://shields.io) **`Ghidra`** **`Mimikatz`** |
-
----
-
-### 📊 Compromised Metrics & Contributions
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="160" />
-</p>
