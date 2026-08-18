@@ -1,6 +1,6 @@
 # 🗃 About Me:
 
-Hi, I'm Rian, passionate about coffee and code. At 23 years old, I have an insatiable desire to learn new things and create a positive impact in everything I do, using my strong reasoning skills and sharp memory.
+Hi, I'm Rian, passionate about coffee and code. At 24 years old, I have an insatiable desire to learn new things and create a positive impact in everything I do, using my strong reasoning skills and sharp memory.
 
 I’m currently working in Information Security at TOTVS, providing assistance with identity and access management and audits.
 
