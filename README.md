@@ -35,6 +35,12 @@ root@totvs-iam-operator
 [![Hack The Box](https://shields.io)]([https://hackthebox.com](https://profile.hackthebox.com/profile/019c7098-f21b-700d-9ea7-cc75c3c53c65?utm_medium=copy_url))
 [![TryHackMe](https://shields.io)]([https://tryhackme.com](https://tryhackme.com/p/rianmarquesmateus))
 
+### 📡 Social Connections & Targets
+<a href="https://linkedin.com" target="https://www.linkedin.com/in/rian-marques_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+<a href="https://hackthebox.com" target="https://profile.hackthebox.com/profile/019c7098-f21b-700d-9ea7-cc75c3c53c65?utm_medium=copy_url_blank"><img src="https://shields.io" alt="Hack The Box"></a>
+<a href="https://tryhackme.com" target="https://tryhackme.com](https://tryhackme.com/p/rianmarquesmateus_blank"><img src="https://shields.io" alt="TryHackMe"></a>
+
+
 ---
 
 ### 🧰 The Security Ecosystem
